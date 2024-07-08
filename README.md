@@ -1,20 +1,20 @@
-### Study Progress
+# Study Progress
 
 ## Supervised Machine Learning
 
-# Week 1:
+### Week 1:
 - Overview of Machine Learning (DONE)
 - Supervised vs Unsupervised (DONE)
 - Practice Quiz (DONE)
 - Regression Model (DONE)
 - Train the Model with Gradient Descent
 
-# Week 2:
+### Week 2:
 - Multiple Linear Regression
 - Gradient Descent in Practice
 - Lab: Linear Regression
 
-# Week 3:
+### Week 3:
 - Classification with Logistic Regression
 - Cost Function for Logistic Regression
 - Gradient Descent for Logistic Regression
