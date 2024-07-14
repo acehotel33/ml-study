@@ -7,7 +7,7 @@
 - Supervised vs Unsupervised (DONE)
 - Practice Quiz (DONE)
 - Regression Model (DONE)
-- Train the Model with Gradient Descent
+- Train the Model with Gradient Descent (DONE)
 
 ### Week 2:
 - Multiple Linear Regression
