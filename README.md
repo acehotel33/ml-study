@@ -10,7 +10,7 @@
 - Train the Model with Gradient Descent (DONE)
 
 ### Week 2:
-- Multiple Linear Regression
+- Multiple Linear Regression (DONE)
 - Gradient Descent in Practice
 - Lab: Linear Regression
 
